@@ -1,0 +1,72 @@
+Z:\Codigo\FallasI\bin\Debug\FallasI.exe
+Z:\Codigo\FallasI\bin\Debug\FallasI.pdb
+Z:\Codigo\FallasI\bin\Debug\drools.dotnet.dll
+Z:\Codigo\FallasI\bin\Debug\drools.dotnet.examples.dll
+Z:\Codigo\FallasI\bin\Debug\drools-3.0.dll
+Z:\Codigo\FallasI\bin\Debug\drools-dep.dll
+Z:\Codigo\FallasI\bin\Debug\IKVM.GNU.Classpath.dll
+Z:\Codigo\FallasI\bin\Debug\IKVM.Runtime.dll
+Z:\Codigo\FallasI\bin\Debug\nunit.framework.dll
+Z:\Codigo\FallasI\obj\Debug\ResolveAssemblyReference.cache
+Z:\Codigo\FallasI\obj\Debug\FallasI.Src.IntroduceData.resources
+Z:\Codigo\FallasI\obj\Debug\FallasI.InitialScreen.resources
+Z:\Codigo\FallasI\obj\Debug\FallasI.Properties.Resources.resources
+Z:\Codigo\FallasI\obj\Debug\FallasI.Src.Simulation.resources
+Z:\Codigo\FallasI\obj\Debug\FallasI.csproj.GenerateResource.Cache
+Z:\Codigo\FallasI\obj\Debug\FallasI.exe
+Z:\Codigo\FallasI\obj\Debug\FallasI.pdb
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.exe
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.pdb
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\bin\Debug\FallasI.exe
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\bin\Debug\FallasI.pdb
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\bin\Debug\drools.dotnet.examples.dll
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\bin\Debug\drools-dep.dll
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\bin\Debug\IKVM.Runtime.dll
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.Src.IntroduceData.resources
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.InitialScreen.resources
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.Properties.Resources.resources
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.csproj.GenerateResource.Cache
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.SimulatioDebug.resources
+C:\Documents and Settings\TricolorerVirtual\Mis documentos\Codigo\FallasI\obj\Debug\FallasI.Simulation.resources
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.exe
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.pdb
+Z:\SVN\fallas1\FallasI\bin\Debug\FallasI.exe
+Z:\SVN\fallas1\FallasI\bin\Debug\FallasI.pdb
+Z:\SVN\fallas1\FallasI\bin\Debug\drools.dotnet.examples.dll
+Z:\SVN\fallas1\FallasI\bin\Debug\drools-dep.dll
+Z:\SVN\fallas1\FallasI\bin\Debug\IKVM.Runtime.dll
+Z:\SVN\fallas1\FallasI\bin\Debug\nunit.framework.dll
+Z:\SVN\fallas1\FallasI\obj\Debug\ResolveAssemblyReference.cache
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.Src.IntroduceData.resources
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.InitialScreen.resources
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.Properties.Resources.resources
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.SimulatioDebug.resources
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.Simulation.resources
+Z:\SVN\fallas1\FallasI\obj\Debug\FallasI.csproj.GenerateResource.Cache
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.exe
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.pdb
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\FallasI.exe
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\FallasI.pdb
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\drools.dotnet.examples.dll
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\drools-dep.dll
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\IKVM.Runtime.dll
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\nunit.framework.dll
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\ResolveAssemblyReference.cache
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.Src.IntroduceData.resources
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.InitialScreen.resources
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.Properties.Resources.resources
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.Simulation.resources
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.csproj.GenerateResource.Cache
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\FallasI.exe.config
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.SimulationDebug.resources
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\obj\Debug\FallasI.Src.VideoSample.resources
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\servicio.jpg
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\tennis_court.jpg
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\tennisBall.png
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\izquierda.png
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\dereha.png
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\cross.png
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\SaqueConEfecto.avi
+E:\Facultad\Sistemas Automáticos de Detección y Corrección de Fallas I\Tps\TpFinal\FallasI\bin\Debug\Resources\SaquePlano.avi

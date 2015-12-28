@@ -1,0 +1,36 @@
+
+Importing Model from XMI
+***** Root Package: Class Model *****
+Add Classifier: 1.1
+Add Classifier: 
+Add Classifier: 1.2
+Add Classifier: 2.1
+Add Classifier: 2
+Add Classifier: 0
+Add Classifier: 1
+Add Classifier: 3
+Add Classifier: Class1
+Add Classifier Role: System
+Add Classifier Role: Frameworks
+***** Append Package: System *****
+Add Classifier: Class1
+Add Classifier: Class2
+Add Classifier: Interface1
+Add Classifier: Class3
+***** Append Package: Frameworks *****
+Add Classifier: Note
+***** Resolving Classifiers *****
+***** Resolving Owners *****
+***** Resolve Package Links *****
+***** Add Extensions ******
+***** Add Diagrams *****
+Adding Diagram : Class Model
+Adding Diagram : System
+Adding Diagram : Frameworks
+***** Resolving DiagramIDs *****
+***** Resolving Association Classes *****
+***** Resolving Parameter Types *****
+***** Resolving Attribute Types *****
+***** Resolving Note links *****
+***** Fixup external references *****
+Import Complete!

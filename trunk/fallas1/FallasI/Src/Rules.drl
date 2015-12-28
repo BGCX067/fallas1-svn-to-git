@@ -1,0 +1,129 @@
+﻿package FallasI
+
+rule "Rule01"
+    when
+        Simulator( GameSurface >= 1 ) //superficie = Césped, Dura, sintética rápida, sintética muy rápida
+    then
+		FallasI.SimulationDebug.debugResult("Rule01: Potencia saque = alta");
+		FallasI.Simulator.EfectoDeReglas(1);
+end 
+
+rule "Rule02"
+    when
+		Simulator( ReceptorPositionX == 1 ) //posición receptor x= centro
+    then
+		FallasI.SimulationDebug.debugResult("Rule02: Dirección = izquierda - Tipo de golpe = corto con efecto y rasante - Potencia saque = media");
+		FallasI.Simulator.EfectoDeReglas(2);		
+end
+
+rule "Rule03"
+    when
+		Simulator( ReceptorPositionY == 3 ) //posición receptor y = lejos 
+    then
+		FallasI.SimulationDebug.debugResult("Rule03: Dirección = izquierda - Tipo de golpe =corto con efecto");
+		FallasI.Simulator.EfectoDeReglas(3);
+end
+
+rule "Rule04"
+    when
+		Simulator( GameSurface == 0 ) //Superficie = Arcilla, Sintética semi-rápida.
+    then
+		FallasI.SimulationDebug.debugResult("Rule04: potencia saque = media");
+		FallasI.Simulator.EfectoDeReglas(4);
+end
+
+rule "Rule05"
+    when
+		Simulator( ReceptorHeight == 0 ) //altura jugador receptor = alta
+    then
+		FallasI.SimulationDebug.debugResult("Rule05: tipo de golpe = con efecto - rasante - potencia saque = alta");
+		FallasI.Simulator.EfectoDeReglas(5);
+end
+
+rule "Rule06"
+    when
+		Simulator( ReceptorType == 0 ) //tipo jugador receptor = zurdo
+    then
+		FallasI.SimulationDebug.debugResult("Rule06: dirección de saque = centro");
+		FallasI.Simulator.EfectoDeReglas(6);
+end
+
+rule "Rule07"
+    when
+		Simulator( ReceptorType == 1 ) //Tipo jugador receptor = diestro.
+    then
+		FallasI.SimulationDebug.debugResult("Rule07: Dirección de saque = derecha");
+		FallasI.Simulator.EfectoDeReglas(7);
+end
+
+rule "Rule08"
+    when
+		Simulator( GameSurfaceType == 1 ) //Indoor
+    then
+		FallasI.SimulationDebug.debugResult("Rule08: Potencia de saque = alta.");
+		FallasI.Simulator.EfectoDeReglas(8);
+end
+
+rule "Rule09"
+    when
+		Simulator( ReceptorPositionY == 1) //Receptor en la línea de recepción
+    then
+		FallasI.SimulationDebug.debugResult("Rule09: Saque largo - Potencia alta - sin efecto ");
+		FallasI.Simulator.EfectoDeReglas(9);
+end
+
+rule "Rule10"
+    when
+		Simulator( ServerType == 0 ) //jugador sacador = zurdo
+    then
+		FallasI.SimulationDebug.debugResult("Rule10: dirección del saque = izquierda");
+		FallasI.Simulator.EfectoDeReglas(10);
+end
+
+rule "Rule11"
+    when
+		Simulator( ServerType == 1 ) //jugador sacador = diestro
+    then
+		FallasI.SimulationDebug.debugResult("Rule11: dirección del saque = derecha");
+		FallasI.Simulator.EfectoDeReglas(11);
+end
+
+rule "Rule12"
+    when
+		Simulator( ServerEffect == 1 ) //tipo de saque = con efecto
+    then
+		FallasI.SimulationDebug.debugResult("Rule12: Dirección del saque != centro.");
+		FallasI.Simulator.EfectoDeReglas(12);
+end
+
+rule "Rule13"
+    when
+		Simulator( ServerHeight == 0 ) //altura sacador = alta
+    then
+		FallasI.SimulationDebug.debugResult("Rule13: Potencia de saque = alta");
+		FallasI.Simulator.EfectoDeReglas(13);
+end
+
+rule "Rule14"
+    when
+		Simulator( ServerHeight == 2 ) //altura sacador = baja
+    then
+		FallasI.SimulationDebug.debugResult("Rule14: tipo de saque = con efecto - Potencia de saque = media.");
+		FallasI.Simulator.EfectoDeReglas(14);
+end
+
+rule "Rule15"
+    when
+		Simulator( ServerEffect == 2 ) //Saque con efecto
+    then
+		FallasI.SimulationDebug.debugResult("Rule15: tipo de saque = con efecto - Empuñadura Continental.");
+		FallasI.Simulator.EfectoDeReglas(15);
+end
+
+rule "Rule16"
+    when
+		Simulator( ServerEffect == 1 ) //Saque sin efecto
+    then
+		FallasI.SimulationDebug.debugResult("Rule15: tipo de saque = sin efecto - Empuñadura Este.");
+		FallasI.Simulator.EfectoDeReglas(16);
+end

@@ -1,0 +1,9 @@
+.tt {
+	position: absolute;
+	z-index: 1;
+	display: none;
+	background-color: #EEEEEE;
+	border: 1px solid #D87001;
+	width: 300px;
+	padding: 5px;
+}
